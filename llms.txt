@@ -1,0 +1,51 @@
+# Geotecnia1 — Linares
+
+> Geotechnical engineering services in Linares, Chile.
+
+## Services
+- [Aislacion Sismica](https://linares.geotecnia.sbs/aislacion-sismica/)
+- [Anclajes](https://linares.geotecnia.sbs/anclajes/)
+- [Calicatas](https://linares.geotecnia.sbs/calicatas/)
+- [Cbr Vial](https://linares.geotecnia.sbs/cbr-vial/)
+- [Cimentaciones](https://linares.geotecnia.sbs/cimentaciones/)
+- [Columnas Grava](https://linares.geotecnia.sbs/columnas-grava/)
+- [Densidad Cono Arena](https://linares.geotecnia.sbs/densidad-cono-arena/)
+- [Ensayo Cpt](https://linares.geotecnia.sbs/ensayo-cpt/)
+- [Ensayos Proctor](https://linares.geotecnia.sbs/ensayos-proctor/)
+- [Estabilidad Taludes](https://linares.geotecnia.sbs/estabilidad-taludes/)
+- [Excavaciones Profundas](https://linares.geotecnia.sbs/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://linares.geotecnia.sbs/excavaciones-subterraneo/)
+- [Exploracion](https://linares.geotecnia.sbs/exploracion/)
+- [Geotecnia Vial](https://linares.geotecnia.sbs/geotecnia-vial/)
+- [Granulometria](https://linares.geotecnia.sbs/granulometria/)
+- [Inyecciones](https://linares.geotecnia.sbs/inyecciones/)
+- [Laboratorio In Situ](https://linares.geotecnia.sbs/laboratorio-in-situ/)
+- [Laboratorio Lab](https://linares.geotecnia.sbs/laboratorio-lab/)
+- [Licuefaccion](https://linares.geotecnia.sbs/licuefaccion/)
+- [Limites Atterberg](https://linares.geotecnia.sbs/limites-atterberg/)
+- [Losas Fundacion](https://linares.geotecnia.sbs/losas-fundacion/)
+- [Masw](https://linares.geotecnia.sbs/masw/)
+- [Mejoramiento](https://linares.geotecnia.sbs/mejoramiento/)
+- [Microzonificacion Sismica](https://linares.geotecnia.sbs/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://linares.geotecnia.sbs/monitoreo-excavaciones/)
+- [Muros Contencion](https://linares.geotecnia.sbs/muros-contencion/)
+- [Pavimento Flexible](https://linares.geotecnia.sbs/pavimento-flexible/)
+- [Pavimento Rigido](https://linares.geotecnia.sbs/pavimento-rigido/)
+- [Permeabilidad In Situ](https://linares.geotecnia.sbs/permeabilidad-in-situ/)
+- [Pilotes](https://linares.geotecnia.sbs/pilotes/)
+- [Refraccion Sismica](https://linares.geotecnia.sbs/refraccion-sismica/)
+- [Resistividad](https://linares.geotecnia.sbs/resistividad/)
+- [Sismica](https://linares.geotecnia.sbs/sismica/)
+- [Sondajes Spt](https://linares.geotecnia.sbs/sondajes-spt/)
+- [Taludes](https://linares.geotecnia.sbs/taludes/)
+- [Triaxial](https://linares.geotecnia.sbs/triaxial/)
+- [Tuneles Suelo Blando](https://linares.geotecnia.sbs/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://linares.geotecnia.sbs/vibrocompactacion/)
+- [Zapatas](https://linares.geotecnia.sbs/zapatas/)
+
+## Contact
+- Website: https://linares.geotecnia.sbs/
+
+## About
+This site provides geotechnical engineering services in Linares, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
